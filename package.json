@@ -1,0 +1,24 @@
+{
+  "name": "coba",
+  "version": "1.0.0",
+  "description": "\"# tugasGIS\"",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DidinAmarudinn/tugasGIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DidinAmarudinn/tugasGIS/issues"
+  },
+  "homepage": "https://github.com/DidinAmarudinn/tugasGIS#readme"
+}
